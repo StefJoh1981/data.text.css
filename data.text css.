@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+    color: black;
+    background-color: ivory;
+}
+  
+
+h1 { 
+  color: purple;
+  text-align: center;
+  text-shadow: -10px -10px blue;
+  
+}
+
+h2 {
+  color: olive; 
+  text-align: left;
+  font-family: calibri;
+  font-size: 18px;
+  text-shadow: -5px -5px violet;
+}
+
+p {
+  font-family: "times roman numeral", sans-serif; ; 
+  font-size: 18px;
+}
+
+/* This is a single-line comment */
+p {
+  color: green;
+}
+
+</style>
+</body>
+</html>
